@@ -14,7 +14,7 @@ anothernic,10.1.1.2
 
 ## Bicep 
 
-Inspect the [Bicep file](main.bicep) to see how [LoadTextContent(https://docs.microsoft.com/azure/azure-resource-manager/bicep/bicep-functions-files#loadtextcontent) and [Split](https://docs.microsoft.com/azure/azure-resource-manager/bicep/bicep-functions-string#split) are leveraged to parse the CSV data.
+Inspect the [Bicep file](main.bicep) to see how [LoadTextContent](https://docs.microsoft.com/azure/azure-resource-manager/bicep/bicep-functions-files#loadtextcontent) and [Split](https://docs.microsoft.com/azure/azure-resource-manager/bicep/bicep-functions-string#split) are leveraged to parse the CSV data.
 
 ## What-if result
 
